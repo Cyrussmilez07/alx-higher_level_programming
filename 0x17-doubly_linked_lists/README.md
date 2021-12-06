@@ -1,0 +1,1 @@
+0x17. C - Doubly linked lists, Doubly Linked List is a variation of Linked list in which navigation is possible in both ways, either forward and backward easily as compared to Single Linked List. ... Link − Each link of a linked list can store a data called an element.
